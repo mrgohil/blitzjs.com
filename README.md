@@ -1,4 +1,4 @@
-# Blitzjs.com - Website & Docs
+# Blitzjs - amazing Website & Docs
 
 ## Website
 
